@@ -144,14 +144,14 @@ Syncify
 ├── main.py (recommendation system1)
 ├── lyrics_Added.py (recommendation system2)
 └── spotify data (data1)
-    ├── train.csv
+├── train.csv
 └── musixMatch data (data2)
-    ├── cosine_similarity_svd.csv 
+├── cosine_similarity_svd.csv 
 ├── ReadMe
 ├── IEEE Report
 ├── Appendix
 └── app
-    ├── __init__.py
+├── __init__.py
     ├── auth.py
     ├── view.py
     ├── model.py
