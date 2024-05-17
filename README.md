@@ -140,6 +140,7 @@ An Example Song Document
 
 ## App Directory Flow
 
+```markdown
 Syncify
 ├── main.py (recommendation system1)
 ├── lyrics_Added.py (recommendation system2)
@@ -162,7 +163,7 @@ Syncify
         ├── rating.html
         ├── recommendation.html
         ├── playlist.html
-
+```
 ## [Link to Initial Main Project File](app) 
 
 
